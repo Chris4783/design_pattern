@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jiawei.wu/wujiawei/design_pattern/pattern1_singleton/lazy_style_multithread/lazy_style_multithread.cpp
+iostream
+-
+iostream
+-
+mutex
+-
+

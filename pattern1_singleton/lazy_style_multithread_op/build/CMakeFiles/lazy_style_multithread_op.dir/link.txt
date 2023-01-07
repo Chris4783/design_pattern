@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++0x   CMakeFiles/lazy_style_multithread_op.dir/lazy_style_multithread_op.cpp.o  -o lazy_style_multithread_op 

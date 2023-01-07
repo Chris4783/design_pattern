@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++0x   CMakeFiles/hungry_style.dir/hungry_style.cpp.o  -o hungry_style 

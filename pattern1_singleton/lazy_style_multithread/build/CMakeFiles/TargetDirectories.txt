@@ -1,0 +1,3 @@
+/home/jiawei.wu/wujiawei/design_pattern/pattern1_singleton/lazy_style_multithread/build/CMakeFiles/rebuild_cache.dir
+/home/jiawei.wu/wujiawei/design_pattern/pattern1_singleton/lazy_style_multithread/build/CMakeFiles/lazy_style_multithread.dir
+/home/jiawei.wu/wujiawei/design_pattern/pattern1_singleton/lazy_style_multithread/build/CMakeFiles/edit_cache.dir

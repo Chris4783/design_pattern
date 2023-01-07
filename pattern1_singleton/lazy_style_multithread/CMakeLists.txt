@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.15)
+project(lazy_style_multithread  VERSION "${PROJECT_VERSION}" LANGUAGES C CXX)
+SET(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++0x")
+add_definitions("-Wall -g")
+add_executable(${PROJECT_NAME} lazy_style_multithread.cpp )
