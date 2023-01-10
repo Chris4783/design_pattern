@@ -1,3 +1,0 @@
-/home/jiawei.wu/wujiawei/design_pattern/pattern1_singleton/hungry_style/build/CMakeFiles/rebuild_cache.dir
-/home/jiawei.wu/wujiawei/design_pattern/pattern1_singleton/hungry_style/build/CMakeFiles/hungry_style.dir
-/home/jiawei.wu/wujiawei/design_pattern/pattern1_singleton/hungry_style/build/CMakeFiles/edit_cache.dir
